@@ -72,3 +72,6 @@
   },
   "homepage": "https://github.com/Ersin84/nextwromo-store#readme"
 }
+"publishConfig": {
+   "@ersin84:registry": "https://npm.pkg.github.com"
+ }
