@@ -58,6 +58,9 @@
     "type": "git",
     "url": "git+https://github.com/Ersin84/nextwromo-store.git"
   },
+  "publishConfig": {
+    "@Ersin84:registry": "https://npm.pkg.github.com"
+  },
   "keywords": [
     "build",
     "next.js",
@@ -72,6 +75,3 @@
   },
   "homepage": "https://github.com/Ersin84/nextwromo-store#readme"
 }
-"publishConfig": {
-   "@ersin84:registry": "https://npm.pkg.github.com"
- }

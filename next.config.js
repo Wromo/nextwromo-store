@@ -16,7 +16,7 @@ module.exports = withPWA({
   reactStrictMode: false,
   eslint: {
     // Warning: This allows production builds to successfully 
-    // project has ESLint errors.
+    // has ESLint errors.
     ignoreDuringBuilds: true,
   },
 
